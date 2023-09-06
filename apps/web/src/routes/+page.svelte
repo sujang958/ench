@@ -8,7 +8,7 @@
 		If you have trouble reading your mail frequently, this app is right for you. Ench provides you a
 		chat app-like experience in mail.
 	</p>
-	<div class="py-1" />
+	<div class="py-0.5" />
 	<div class="flex flex-row items-center gap-x-4">
 		<Button class="text-black bg-neutral-200 font-bold">About</Button>
 		<Button>Sign Up</Button>
