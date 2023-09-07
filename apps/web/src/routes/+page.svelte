@@ -10,7 +10,7 @@
 	</p>
 	<div class="py-0.5" />
 	<div class="flex flex-row items-center gap-x-4">
-		<Button class="text-black bg-neutral-200 font-bold">About</Button>
+		<Button type="secondary">About</Button>
 		<Button>Sign Up</Button>
 	</div>
 </section>
